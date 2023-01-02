@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamelSyh
-- 👀 I’m interested in Backend
+- 👀 I’m interested in Backend Dev
 - 🌱 I’m currently learning Dev-Ops
 - 📫 How to reach me ...
 
