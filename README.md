@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @JamelSyh
-- 👀 I’m interested in Backend Dev
-- 🌱 I’m currently learning Dev-Ops
-- 📫 How to reach me ...
+# 🚀 wellcome
 
-<!---
-JamelSyh/JamelSyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer and computer science student 🎓 with a passion for solving problems and creating innovative solutions 💡
+
+### Skills
+- Proficient in JavaScript, Python, Java, and more 💻
+- Experienced with React, Django, Node.js, and Express 🔥
+- Familiar with SQL and NoSQL databases 🗄️
+- Strong understanding of computer science fundamentals 📚
+
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/jamal-syh-gobig/(link)
+- Email: jamalsyh2002@gmail.com(email)
+
+🚀 Let's build something great together!
