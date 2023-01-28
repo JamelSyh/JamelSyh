@@ -9,7 +9,7 @@ Full-stack developer and computer science student 🎓 with a passion for solvin
 - Strong understanding of computer science fundamentals 📚
 
 ### Connect with me
-- LinkedIn: https://www.linkedin.com/in/jamal-syh-gobig/(link)
-- Email: jamalsyh2002@gmail.com(email)
+- LinkedIn: https://www.linkedin.com/in/jamal-syh-gobig/
+- Email: jamalsyh2002@gmail.com
 
 🚀 Let's build something great together!
